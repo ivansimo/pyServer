@@ -1,0 +1,89 @@
+[
+    {
+        "gatewayFree": 98, 
+        "gatewayLoad": 0.07, 
+        "mac": "AC233FC038F8", 
+        "timestamp": "2019-03-01T03:00:51Z", 
+        "type": "Gateway"
+    }, 
+    {
+        "mac": "086698CF1FAD", 
+        "rssi": -77
+    }, 
+    {
+        "mac": "0DD8606ED45B", 
+        "rssi": -77
+    }, 
+    {
+        "mac": "1D2D220B0D86", 
+        "rssi": -77
+    }, 
+    {
+        "mac": "23A80781DCDE", 
+        "rssi": -75
+    }, 
+    {
+        "mac": "244B033A196F", 
+        "rssi": -66
+    }, 
+    {
+        "mac": "350E6BC4ABB1", 
+        "rssi": -70
+    }, 
+    {
+        "mac": "42C0ABAE28C5", 
+        "rssi": -49
+    }, 
+    {
+        "mac": "444DF475C645", 
+        "rssi": -59
+    }, 
+    {
+        "mac": "641CAE00EF9F", 
+        "rssi": -76
+    }, 
+    {
+        "mac": "68D93C7BE873", 
+        "rssi": -71
+    }, 
+    {
+        "mac": "6E15484DAB89", 
+        "rssi": -78
+    }, 
+    {
+        "mac": "6F16888B546A", 
+        "rssi": -78
+    }, 
+    {
+        "mac": "768F391A6DB0", 
+        "rssi": -80
+    }, 
+    {
+        "mac": "78BDBC6799D1", 
+        "rssi": -30
+    }, 
+    {
+        "mac": "79429FCEBFFD", 
+        "rssi": -77
+    }, 
+    {
+        "mac": "7B7102A9A91C", 
+        "rssi": -79
+    }, 
+    {
+        "mac": "7E839DF64907", 
+        "rssi": -79
+    }, 
+    {
+        "mac": "8C5AF8141882", 
+        "rssi": -76
+    }, 
+    {
+        "mac": "CC0E9D69418E", 
+        "rssi": -73
+    }, 
+    {
+        "mac": "F25D47394596", 
+        "rssi": -30
+    }
+]
